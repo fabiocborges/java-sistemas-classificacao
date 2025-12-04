@@ -14,9 +14,6 @@ Projeto desenvolvido para prática de **lógica de programação em Java**, util
 
 ## 🗂 Estrutura do Projeto
 ```
-
-
-
 src/
 ├── notas/
 │   └── Main.java
@@ -24,9 +21,6 @@ src/
 │   └── Main.java
 └── idade/
     └── Main.java
-
-
-
 ```
 ---
 
