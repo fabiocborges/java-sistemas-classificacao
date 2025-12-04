@@ -13,7 +13,7 @@ Projeto desenvolvido para prática de **lógica de programação em Java**, util
 ---
 
 ## 🗂 Estrutura do Projeto
-
+```
 
 
 
@@ -27,7 +27,7 @@ src/
 
 
 
-
+```
 ---
 
 ## 🛠 Tecnologias Utilizadas
