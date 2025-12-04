@@ -16,12 +16,11 @@ Projeto desenvolvido para prática de **lógica de programação em Java**, util
 
 src/
 ├── notas/
-│ └── Main.java
+│   └── Main.java
 ├── temperatura/
-│ └── Main.java
+│   └── Main.java
 └── idade/
-└── Main.java
-
+    └── Main.java
 
 ---
 
