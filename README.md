@@ -10,7 +10,6 @@ Projeto desenvolvido para prática de **lógica de programação em Java**, util
 - ✅ Classificação de Temperatura  
 - ✅ Classificação por Idade  
 
----
 
 ## 🗂 Estrutura do Projeto
 ```
@@ -22,7 +21,6 @@ src/
 └── idade/
     └── Main.java
 ```
----
 
 ## 🛠 Tecnologias Utilizadas
 
