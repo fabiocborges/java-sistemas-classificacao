@@ -14,13 +14,17 @@ Projeto desenvolvido para prática de **lógica de programação em Java**, util
 
 ## 🗂 Estrutura do Projeto
 
+
+
 src/
-notas/
-Main.java
-temperatura/
-Main.java
-idade/
-Main.java
+├── notas/
+│   └── Main.java
+├── temperatura/
+│   └── Main.java
+└── idade/
+    └── Main.java
+
+
 
 ---
 
